@@ -39,4 +39,3 @@ Imagen ingresada en escala de grises.
    ```bash
    make clean
    ```
-```
